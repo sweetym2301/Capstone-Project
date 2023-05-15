@@ -1,1 +1,2 @@
 # Capstone-Project
+The primary objective of this project is to analyze Amazon product reviews and gain valuable insights for businesses. The key focus areas include sentiment analysis, topic modeling, feature extraction, and overall review ratings. By examining these aspects, we aim to identify patterns, customer preferences, common issues, and potential areas of improvement, ultimately helping businesses make informed decisions.
